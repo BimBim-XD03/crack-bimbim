@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#coding=utf-8 
+#coding=utf-8
 
 ## Open Resource Code Buat Belajar Lu Ye. Kalo Mau Recode, Recode Ajah Tapi Ngotak:) 
 
